@@ -18,7 +18,7 @@ end
 
 generator_desc("Ensuring correct delivery build cookbook content")
 
-build_cookbook_dir = File.join(dot_delivery_dir, "build_cookbook")
+build_cookbook_dir = File.join(dot_delivery_dir, "enterprise_build_cookbook")
 
 # cookbook root dir
 directory build_cookbook_dir
